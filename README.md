@@ -1,6 +1,6 @@
 
 # Addition-Math-Game
-A simple mathematics game where the player has to add 3 numbers and depending upon the input the player gets a respond. The game is restartable and error handling has been done(note: the game runs on terminal)
+A simple mathematics game where the player has to add 3 numbers and depending upon the input the player gets a response. The game is restartable and error handling has been done(note: the game runs on the terminal)
 
 The game mainly works on the concept of recursion.
 
